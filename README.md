@@ -1,7 +1,7 @@
 # 📉 Impact of Interest Rate Hikes on Real Estate Market Trends  
-*BUAN 6312 – Econometrics & Time Series Analysis Project*
+*Econometrics & Time Series Analysis Project*
 
-This repository contains the final group project for **BUAN 6312.001: Econometrics & Time Series Analysis**, investigating how interest rate fluctuations and related macroeconomic variables affect housing market activity in the United States.
+This repository contains the final project for **Econometrics & Time Series Analysis**, investigating how interest rate fluctuations and related macroeconomic variables affect housing market activity in the United States.
 
 ---
 
@@ -56,21 +56,6 @@ Data was collected from reliable public sources including **FRED** and the **U.S
 - Policymakers must consider **context-specific factors** when evaluating interest rate impacts.
 - Combating inflation and expanding housing supply are key to stabilizing the market.
 - ARIMA forecasting offers **short-term decision support** for buyers and investors.
-
----
-
-## 👥 Group Members
-
-- Farid Farooq  
-- Shaivya Hem Thakore  
-- Parthsarthi Shah  
-- Sambuj Dhara  
-- Ravindra Gollpudi  
-- Samira Salehi  
-- Afnan Anwar Khan  
-- Jishita Reddy  
-- Nipun Chauhan  
-- Prasanth Chowdary Yanamandala  
 
 ---
 
